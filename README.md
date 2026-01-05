@@ -21,7 +21,7 @@ Este repositório contém um microsserviço desenvolvido em Java 21 para envio d
 
 Esse microsserviço faz parte de um sistema maior de CRM e é integrado com outro microsserviço, que é responsável pelo gerenciamento de clientes e tickets.
 
-Para saber mais sobre o microsserviço CRM, que se comunica com este através de mensageria RabbitMQ AMPQ, consulte o repositório CRM Microsserviço disponível em [https://github.com/JoabioVilela/crm-messaging-microservices](https://github.com/JoabioVilela/crm-messaging-microservices).
+Para saber mais sobre o microsserviço CRM, que se comunica com este através de mensageria RabbitMQ AMPQ, consulte o repositório CRM Microsserviço disponível em [https://github.com/JoabioVilela/crm-messaging-microservices](https://github.com/JoabioVilela/crm-messaging-microservices)
 
 
 ## Tecnologias e Ferramentas
