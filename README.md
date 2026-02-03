@@ -106,6 +106,6 @@ Atenciosamente,
 
 Joabio Vilela
 
-Email: joabio.vilela@gmail.com
+Email: JoabioVilela@proton.me
 
 LinkedIn: https://www.linkedin.com/in/joabiovilela
