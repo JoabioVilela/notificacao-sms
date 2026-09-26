@@ -70,7 +70,7 @@ bash
 
 ### 2. Certifique-se de que o principal Microsserviço foi iniciado
 
-[https://github.com/JoabioVilela/java-restful-api-crm](https://github.com/JoabioVilela/crm-messaging-microservices)
+[https://github.com/JoabioVilela/crm-messaging-microservices](https://github.com/JoabioVilela/crm-messaging-microservices)
 
 ### 3. Compile e execute
 
