@@ -1,4 +1,4 @@
-# Microsserviço Notificação SMS - Backend Java API RESTful
+# Microsserviço Notificação SMS - Backend Java
 ## Demonstração de funcionamento
 <img width="1680" height="1079" alt="Captura de tela funcionamento" src="https://github.com/user-attachments/assets/d4910203-ebb7-49a9-8fb2-1c652251dc67" />
 
@@ -70,7 +70,7 @@ bash
 
 ### 2. Certifique-se de que o principal Microsserviço foi iniciado
 
-[https://github.com/JoabioVilela/java-restful-api-crm](https://github.com/JoabioVilela/crm-messaging-microservices)
+[https://github.com/JoabioVilela/crm-messaging-microservices](https://github.com/JoabioVilela/crm-messaging-microservices)
 
 ### 3. Compile e execute
 
