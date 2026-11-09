@@ -40,7 +40,6 @@ Para saber mais sobre o microsserviço CRM, que se comunica com este através de
 
 - As configurações para RabbitMQ e MySQL estão no arquivo:
   `src/main/resources/application-dev.properties`
-- O arquivo `compose.yaml` na raiz do projeto contém o serviço **MySQL** configurado para execução com **Docker Compose**.
 - Para o envio de SMS, o serviço pode ser configurado para integração com APIs de SMS de terceiros.
  
 ### Pré-requisitos
