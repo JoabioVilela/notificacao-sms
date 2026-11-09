@@ -65,9 +65,9 @@ isto é:
 
 bash
 
-`git clone git@github.com:JoabioVilela/notificacaosms.git`
+`git clone git@github.com:JoabioVilela/notificaca-osms.git`
 
-`cd notificacaosms`
+`cd notificacao-sms`
 
 ### 2. Certifique-se de que o principal Microsserviço foi iniciado
 
