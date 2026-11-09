@@ -96,7 +96,6 @@ Execute o microsserviço. Ele estará ouvindo a fila RabbitMQ.
 ## Implementações Futuras
 
 - Testes unitários com JUnit
-- Implementação de Frontend utilizando Angular
 
 ## Contato
 
