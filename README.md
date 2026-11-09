@@ -65,7 +65,7 @@ isto é:
 
 bash
 
-`git clone git@github.com:JoabioVilela/notificaca-osms.git`
+`git clone git@github.com:JoabioVilela/notificacao-sms.git`
 
 `cd notificacao-sms`
 
